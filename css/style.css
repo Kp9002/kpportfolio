@@ -1391,7 +1391,7 @@ section:nth-child(odd) .animate.scroll{
 @media(max-height:679px){
 
     .footer-background,.footer-foreground{
-        height: 110vh;
+        height: 50vh;
     }
 }
 
